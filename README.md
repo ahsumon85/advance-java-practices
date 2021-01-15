@@ -1,5 +1,13 @@
 # Advance JAVA Programming
-1. **Lambda Expression:**	A lambda expression is a short block of code which takes in parameters and returns a value
+1. **Lambda Expression:**	Lambda expression is anonymous function which takes in parameters and returns a value
+
+## What are main advantage of using java 8? 
+
+* More compact code
+* Less boiler plate code
+* More readable and reusable code
+* More testable code
+* Parallel operations 
 
 ## Lambda Expression:
 
@@ -10,4 +18,3 @@ A lambda expression (lambda) describes a block of code (an anonymous function) t
 (parameter1, parameter2) -> { code block }
 ```
 
-![lambda-expression](/home/sumon/Desktop/lambda-expression.jpg)
