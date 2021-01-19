@@ -10,4 +10,5 @@ A lambda expression (lambda) describes a block of code (an anonymous function) t
 (parameter1, parameter2) -> { code block }
 ```
 
-![lambda-expression](/home/sumon/Desktop/lambda-expression.jpg)
+![lambda-expression](https://user-images.githubusercontent.com/31319842/103507447-6102ed80-4e89-11eb-8e93-00a504593248.jpg)
+
